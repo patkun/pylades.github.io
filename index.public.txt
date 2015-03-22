@@ -1,2 +1,4 @@
 # Pylades
 
+[Another Page.](anotherpage.public.html)
+
