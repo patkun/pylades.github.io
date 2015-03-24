@@ -1,17 +1,10 @@
-# Pylades
-
-This is my website.
-
-
-[About.](anotherpage.public.html)
-
-> This is a quotation.
-
-This isn’t.
+# Pylades/Lutrarium
 
 ## Posts
 
 ~---posts---~
 
 
+---
 
+[About.](anotherpage.public.html)
