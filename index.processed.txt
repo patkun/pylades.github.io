@@ -1,9 +1,8 @@
 # Pylades/Lutrarium
 
-## Posts
 
-[My Second Post — 2015-03-25](posts/2015-03-25.public.txt)
-[My New Post — 2015-03-24](posts/2015-03-24.public.txt)
+[My Second Post — 2015-03-25](posts/2015-03-25.public.html)
+[My New Post — 2015-03-24](posts/2015-03-24.public.html)
 
 
 
