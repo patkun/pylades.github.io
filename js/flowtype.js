@@ -40,7 +40,7 @@
       // Context for resize callback
          var that = this;
       // Make changes upon resize
-         $(window).resize(function(){changes(that);});
+         //$(window).resize(function(){changes(that);});
       // Set changes on load
          changes(this);
       });
