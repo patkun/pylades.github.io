@@ -3,3 +3,9 @@ title: foobar
 ---
 
 Here is some text.
+
+![Augustus.](http://www.skidmore.edu/academics/classics/courses/2007spring/hi363/primaporta1.jpg)
+
+![Agrippa](http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Agrippa_Gabii_Louvre_Ma1208.jpg/320px-Agrippa_Gabii_Louvre_Ma1208.jpg)
+
+foo
