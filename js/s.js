@@ -17,9 +17,11 @@ $(function() {
                                              img.parent().offset({left:0}).css("max-width",$(window).width());
                                          }
                                          else {
-                                             img.css("float","right");
+                                             img.parent().offset({left:0}).css("max-width",$(window).width());
+                                             var x = $(window).width() - img.width();
+                                             img.offset({left:x});
                                          }
                                      });
                                     });
-    $("figcaption").css({"font-family":"sans-serif","font-size":"50%"});
+    $("figcaption").css({"font-family":"sans-serif","font-size":"50%","text-align":"right"});
 });
